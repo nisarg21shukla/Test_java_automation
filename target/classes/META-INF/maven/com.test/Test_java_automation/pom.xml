@@ -3,4 +3,7 @@
   <groupId>com.test</groupId>
   <artifactId>Test_java_automation</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+<build>
+    <finalName>Test_java_automation</finalName>
+</build>
 </project>
